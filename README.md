@@ -13,7 +13,9 @@ Com o Power BI criei painéis dinâmicos que  permitem a fácil interpretação 
 3. Dashboard: <a href='https://app.powerbi.com/groups/me/reports/4abd4b8b-a0ed-4610-bd01-576e453b5859?ctid=72617dd8-37a5-42a2-8b20-59d2d0c50707&pbi_source=linkShare'>Dashboard - Power BI</a>
 
 
+## Imagem Dashboard 
 
+<img src='https://github.com/marianatiele/Analise_YouTube/blob/main/YouTube%20-%20Dashboard%201.png'>
 
 
 
