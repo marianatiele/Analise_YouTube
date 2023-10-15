@@ -10,7 +10,7 @@ Com o Power BI criei painéis dinâmicos que  permitem a fácil interpretação 
 ## Recursos :art:
 1. Figma: <a href='https://www.figma.com/community/file/1294468337900596535'>Imagem de fundo</a>
 2. Dataset: <a href='https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023'>Dataset</a>
-3. Dashboard: <a href='#'>Dashboard - Power BI</a>
+3. Dashboard: <a href='https://app.powerbi.com/groups/me/reports/4abd4b8b-a0ed-4610-bd01-576e453b5859?ctid=72617dd8-37a5-42a2-8b20-59d2d0c50707&pbi_source=linkShare'>Dashboard - Power BI</a>
 
 
 
